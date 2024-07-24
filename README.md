@@ -1,4 +1,5 @@
 # Bem-vindo ao Friends Realms!
+![Boas Vindas](assets/welcome.png)
 
 Bem-vindo ao **Friends Realms**, um servidor Minecraft Realms dedicado a oferecer uma experiência incrível e colaborativa para todos os jogadores. Este README é a sua porta de entrada para o nosso mundo virtual! Aqui, você encontrará uma visão geral do servidor, algumas regras importantes, e uma amostra do que o nosso mundo tem a oferecer.
 
