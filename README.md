@@ -7,31 +7,19 @@ Bem-vindo ao **Friends Realms**, um servidor Minecraft Realms dedicado a oferece
 ### 1. **Visão Geral do Mundo**
 Explore a beleza e a diversidade do nosso mundo em **Friends Realms**. Desde vastas paisagens até construções impressionantes, o nosso servidor é um lugar onde a criatividade não tem limites.
 
-![Visão Geral do Mundo](imagens/visao-geral.png)
-
 ### 2. **Construções Destaque**
 Aqui estão algumas das construções mais notáveis feitas por nossos talentosos jogadores:
 
 - **Castelo dos Sonhos**: Um majestoso castelo que é o coração de nossa comunidade.
-  ![Castelo dos Sonhos](imagens/castelo.png)
-  
 - **Cidade Flutuante**: Uma cidade futurista suspensa nas nuvens.
-  ![Cidade Flutuante](imagens/cidade.png)
-
 - **Fazenda Comunitária**: Um local onde todos podem contribuir e obter recursos.
-  ![Fazenda Comunitária](imagens/fazenda.png)
 
 ### 3. **Conheça os Administradores**
 Os administradores são responsáveis por manter o servidor funcionando e garantir uma experiência positiva para todos os jogadores. Conheça a equipe:
 
 - **Admin 1**: [Nome do Admin] - Responsável por [Função]
-  ![Admin 1](imagens/admin1.png)
-
 - **Admin 2**: [Nome do Admin] - Responsável por [Função]
-  ![Admin 2](imagens/admin2.png)
-
 - **Admin 3**: [Nome do Admin] - Responsável por [Função]
-  ![Admin 3](imagens/admin3.png)
 
 ## Regras Importantes
 
@@ -43,23 +31,20 @@ Para garantir que todos tenham uma experiência divertida e segura, siga estas r
 3. **Participar de Projetos Coletivos**: Envolva-se em eventos e construções comunitárias.
 4. **Explorar o Mundo**: Descubra novos lugares e aproveite a aventura.
 
-![Casa de Jogador](imagens/casa-jogador.png)
-
 ### O que **Não Pode** Fazer:
 1. **Não Griefar**: Não destrua ou danifique construções alheias.
 2. **Sem Cheats**: Não use mods ou hacks para obter vantagens.
 3. **Respeitar o Espaço Pessoal**: Não invada áreas privadas de outros jogadores.
 4. **Não Fazer Spam**: Evite mensagens repetitivas ou perturbadoras.
 5. **Sem Baderna**: Mantenha um comportamento respeitoso e não cause desordem.
-   ![Sem Baderna](imagens/sem-baderna.png)
-
+   ![Sem Baderna](assets/baderna.png)
 6. **Não Usar Explosivos**: Evite o uso de TNT ou outros explosivos perto de construções.
 7. **Não Construir em Áreas Protegidas**: Respeite as áreas reservadas para projetos comunitários.
 8. **Sem Spam no Chat**: Evite mensagens repetitivas ou perturbadoras.
 9. **Sem Comportamento Ofensivo**: Mantenha a linguagem apropriada e respeite todos os jogadores.
 10. **Não Invadir Quartos Alheios**: Não entre em áreas privadas de outros jogadores ou roube itens.
 11. **Respeitar os Baús Comunitários**: Use os baús comunitários com respeito e moderação.
-    ![Baús Comunitários](imagens/baus-comunitarios.png)
+    ![Baús Comunitários](assets/bau.png)
 
 Para uma lista completa de regras e detalhes, consulte a [Política de Conduta](https://github.com/serya012/minecraft-realms/blob/main/REGRAS.md).
 
@@ -74,11 +59,13 @@ Para uma lista completa de regras e detalhes, consulte a [Política de Conduta](
 3. **Explore e Divirta-se**: 
    - Comece a explorar, construir e interagir com a comunidade!
 
+![Casa de Jogador](assets/casa.png)
+
 ## Dúvidas e Sugestões
 
 Se você tiver alguma dúvida ou sugestão, entre em contato com os administradores. Estamos sempre disponíveis para ajudar e ouvir suas opiniões.
 
-![Boas Aventuras](imagens/boas-aventuras.png)
+![Boas Aventuras](assets/final.png)
 
 **Mais uma vez, bem-vindo ao Friends Realms!** Aproveite sua estadia e boas aventuras!
 
