@@ -18,9 +18,10 @@ Aqui estão algumas das construções mais notáveis feitas por nossos talentoso
 ### 3. **Conheça os Administradores**
 Os administradores são responsáveis por manter o servidor funcionando e garantir uma experiência positiva para todos os jogadores. Conheça a equipe:
 
-- **ADM**: [SLOWboxGG] - Responsável por [Construções]
-- **Admin 2**: [Nome do Admin] - Responsável por [Função]
-- **Admin 3**: [Nome do Admin] - Responsável por [Função]
+- **ADM**: SLOWboxGG - Responsável pela Construção
+- **Moderador 1**: Serya012 - Responsável por Construção/Farms/Exploração/Combate
+- **Moderador 2**: Scroll_rms - Responsável por Exploração
+- **Jogador 1**: 
 
 ## Regras Importantes
 
