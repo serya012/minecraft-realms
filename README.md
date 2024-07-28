@@ -21,7 +21,6 @@ Os administradores são responsáveis por manter o servidor funcionando e garant
 - **ADM**: SLOWboxGG - Responsável pela Construção
 - **Moderador 1**: Serya012 - Responsável por Construção/Farms/Exploração/Combate
 - **Moderador 2**: Scroll_rms - Responsável por Exploração
-- **Jogador 1**: 
 
 ## Regras Importantes
 
